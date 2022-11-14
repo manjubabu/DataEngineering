@@ -3,3 +3,5 @@ Learning is boring mai
 
 
 further test
+
+1/0 gives zeroDivider Exception
